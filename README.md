@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋. I'm Oğuz</h1>
 <h3 align="center">A Frontend developer</h3>
 
-- 🌱 I’m currently learning **Svelte.js, NodeJS, Webpack, TypeScript etc.**
+- 🌱 I’m currently learning **Svelte.js, Lit, NestJS etc.**
 - 📫 How to reach me **oguzolke@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
