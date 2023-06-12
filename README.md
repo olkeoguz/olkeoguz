@@ -6,9 +6,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/oguzolke/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="cengizcmataraci" height="30" width="30" /></a>
-<a href="https://www.instagram.com/olkeoguz/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="cengizcmataraci" height="30" width="30" /></a>
-<a href="https://twitter.com/olkeoguz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@cengizcmataraci" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oguzolke/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="olkeoguz" height="30" width="30" /></a>
+<a href="https://www.instagram.com/olkeoguz/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="olkeoguz" height="30" width="30" /></a>
+<a href="https://twitter.com/olkeoguz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@olkeoguz" height="30" width="40" /></a>
 
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
